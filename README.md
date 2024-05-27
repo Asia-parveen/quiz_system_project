@@ -1,1 +1,1 @@
-i am very glade to say this that i have completsed my quiz system project.
+I am very glade to say this that i have completed my quiz system project.
